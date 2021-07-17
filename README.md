@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Proprietary algotrading systems are what I code on.
+Proprietary algotrading systems and investment platforms are what I code on.
